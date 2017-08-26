@@ -302,7 +302,6 @@ func main() {
 	//set up logging
 	log.SetFlags(log.LstdFlags)
 	log.SetPrefix("[WeatherGrabber] ")
-	log.Println("Starting up...")
 
 	viper.SetConfigName("weathergrabber-config")
 	viper.SetConfigType("yaml")
