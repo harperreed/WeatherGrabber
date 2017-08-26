@@ -21,3 +21,5 @@ Should work
 ## Why?
 
 I am using this to offload my weather data to an app to show historical weather information about my PWS. This is pretty straight forward. 
+
+I run this every 5 min via a local cron. WFM ;)
