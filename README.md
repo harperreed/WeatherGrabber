@@ -10,8 +10,7 @@ and then fill out the details in the config file
 
 Then run it!
 
-    harper@machine {~/src/go/src/weather}$ ./WeatherGrabber                                                                                                                                           
-    [WeatherGrabber] 2017/08/26 14:32:13 Starting up...
+    harper@machine {~/src/go/src/weather}$ ./WeatherGrabber
     [WeatherGrabber] 2017/08/26 14:32:13 Grabbing weather
     [WeatherGrabber] 2017/08/26 14:32:14 Pushing weather to webhook
     harper@machine {~/src/go/src/weather}$
