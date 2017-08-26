@@ -1,0 +1,4 @@
+
+ip100ip: 192.168.xxx.xxx
+webhook: https://my.com/webhook
+api_key: apikey header
